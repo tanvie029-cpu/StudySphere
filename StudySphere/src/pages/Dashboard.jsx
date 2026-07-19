@@ -10,7 +10,8 @@ import ProgressChart from "../components/ProgressChart";
 function Dashboard() {
   return (
     <main>
-      <Greeting />
+      <Greeting name="Tanvi" />
+
       <GoalCard />
       <QuickActions />
       <DeadlineCard />
