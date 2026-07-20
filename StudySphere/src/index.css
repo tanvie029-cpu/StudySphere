@@ -1,11 +1,14 @@
-*{
-  margin:0;
-  padding:0;
+@import "tailwindcss";
+
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
 body{
   font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
 }
 
 nav{

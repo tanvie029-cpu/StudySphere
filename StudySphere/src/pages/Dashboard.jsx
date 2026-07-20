@@ -9,7 +9,7 @@ import ProgressChart from "../components/ProgressChart";
 
 function Dashboard() {
   return (
-    <main>
+    <main className="max-w-6xl mx-auto p-4 space-y-6">
       <Greeting name="Tanvi" />
 
       <GoalCard />
