@@ -33,7 +33,7 @@ return (
     <img
     src={HeroIllustration}
     alt="Student studying"
-    className="w-40"
+    className="w-36 mr-6"
 />
   </div>
 
